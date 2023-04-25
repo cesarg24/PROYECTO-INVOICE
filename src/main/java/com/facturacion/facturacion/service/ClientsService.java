@@ -1,7 +1,6 @@
 package com.facturacion.facturacion.service;
-
+/* Realizado por Cesar Grijalva */
 import com.facturacion.facturacion.entities.Clients;
-import com.facturacion.facturacion.entities.Invoice;
 import com.facturacion.facturacion.exception.ClientsAlreadyExistException;
 import com.facturacion.facturacion.exception.ClientsNotFoundException;
 import com.facturacion.facturacion.repository.ClientsRepository;

@@ -1,5 +1,5 @@
 package com.facturacion.facturacion.entities;
-
+/* Realizado por Cesar Grijalva */
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Data;
 import javax.persistence.*;
